@@ -78,7 +78,7 @@ cli-64                     UNKNOWN           binary
 cli-arm64                  UNKNOWN           binary                           
 click                      8.5.0             python                           
 colorchoice                1.0.4             rust-crate                       
-confuse                    2.3.0             python                           
+confuse                    2.3.1             python                           
 console                    0.15.11           rust-crate                       
 core2                      0.4.0             rust-crate                       
 coreutils                  9.8-r1            apk                              
@@ -344,7 +344,7 @@ pip                        UNKNOWN           UnknownPackage
 pixman                     0.46.4-r0         apk                              
 pkgconf                    2.5.1-r0          apk                              
 platformdirs               4.10.0            python                           
-platformdirs               4.14.2            python                           
+platformdirs               4.14.3            python                           
 platformdirs               4.4.0             python                           
 ppv-lite86                 0.2.21            rust-crate                       
 proc-macro2                1.0.95            rust-crate                       
