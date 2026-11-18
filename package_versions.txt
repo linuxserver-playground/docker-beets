@@ -288,7 +288,7 @@ llvm21-libs                21.1.2-r1         apk
 log                        0.4.27            rust-crate                       
 markupsafe                 3.0.4             python                           
 maybe-rayon                0.1.1             rust-crate                       
-mbedtls                    3.6.7-r0          apk                              
+mbedtls                    3.6.8-r0          apk                              
 mediafile                  0.17.0            python                           
 memchr                     2.7.5             rust-crate                       
 mesa                       25.2.7-r1         apk                              
@@ -341,7 +341,7 @@ pip                        UNKNOWN           UnknownPackage
 pixman                     0.46.4-r0         apk                              
 pkgconf                    2.5.1-r0          apk                              
 platformdirs               4.12.4            python                           
-platformdirs               4.14.5            python                           
+platformdirs               4.14.7            python          (+1 duplicate)   
 platformdirs               4.4.0             python                           
 ppv-lite86                 0.2.21            rust-crate                       
 proc-macro2                1.0.95            rust-crate                       
