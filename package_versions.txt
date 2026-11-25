@@ -64,7 +64,7 @@ cdparanoia-libs            10.2-r14          apk
 certifi                    2026.10.23        python                           
 certifi                    2026.11.20        python                           
 cfg-if                     1.0.1             rust-crate                       
-charset-normalizer         3.5.2             python                           
+charset-normalizer         3.5.3             python                           
 chromaprint                1.6.0-r0          apk                              
 chromaprint-libs           1.6.0-r0          apk                              
 cjson                      1.7.19-r1         apk                              
@@ -197,7 +197,7 @@ libbsd                     0.12.2-r0         apk             (+1 duplicate)
 libbz2                     1.0.8-r6          apk                              
 libc                       0.2.172           rust-crate      (+1 duplicate)   
 libcap2                    2.78-r0           apk                              
-libcrypto3                 3.5.9-r0          apk                              
+libcrypto3                 3.5.9-r1          apk                              
 libcurl                    8.23.0-r0         apk                              
 libdav1d                   1.5.2-r0          apk                              
 libdovi                    3.3.2-r0          apk                              
@@ -206,7 +206,7 @@ libdv                      1.0.0-r8          apk
 libeconf                   0.8.3-r0          apk                              
 libelf                     0.194-r0          apk                              
 libexpat                   2.10.0-r0         apk                              
-libffi                     3.5.2-r0          apk                              
+libffi                     3.8.1-r0          apk                              
 libflac                    1.4.3-r2          apk                              
 libgcc                     14.2.0-r6         apk                              
 libgcc                     15.2.0-r2         apk                              
@@ -245,7 +245,7 @@ libsodium                  1.0.20-r1         apk
 libsoup3                   3.6.5-r1          apk                              
 libsrt                     1.5.3-r1          apk                              
 libssh                     0.11.4-r0         apk                              
-libssl3                    3.5.9-r0          apk                              
+libssl3                    3.5.9-r1          apk                              
 libstdc++                  14.2.0-r6         apk                              
 libstdc++                  15.2.0-r2         apk                              
 libtag                     2.1.1-r0          apk                              
@@ -331,7 +331,8 @@ openjpeg                   2.5.4-r2          apk
 opus                       1.5.2-r1          apk                              
 orc                        0.4.41-r0         apk                              
 p11-kit                    0.26.2-r0         apk                              
-packaging                  26.3              python          (+2 duplicates)  
+packaging                  26.3              python          (+1 duplicate)   
+packaging                  26.4              python                           
 pango                      1.56.4-r0         apk                              
 paste                      1.0.15            rust-crate                       
 pastey                     0.1.0             rust-crate                       
@@ -448,4 +449,4 @@ zipp                       3.23.0            python
 zix-libs                   0.6.2-r0          apk                              
 zlib                       1.4-r0            apk                              
 zlib                       2.3.3             UnknownPackage                   
-zstd-libs                  1.5.7-r2          apk                              
+zstd-libs                  1.6.0-r0          apk                              
